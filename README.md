@@ -10,6 +10,10 @@
 
 ## 🎥 Resultado em vídeo
 
+https://github.com/Jon-Araujo/mission5-college/assets/106936652/e6a8f177-cef7-49e6-a4b1-36b115919c6f
+
+https://github.com/Jon-Araujo/mission5-college/assets/106936652/1c0aaa60-889f-43bd-bace-aebe5f069562
+
 ## Contextualização 📜
 
 Nesta Missão Prática pode-se visualizadar dados em tempo real provenientes
